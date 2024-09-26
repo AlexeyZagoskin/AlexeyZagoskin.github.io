@@ -14,4 +14,4 @@
 ![La_bataille_d'Austerlitz _2_decembre_1805_(François_Gérard)](https://github.com/user-attachments/assets/50918816-4e6e-4a40-b61b-6ba9fd4bbb97)
 
 Говорят, что именно во время этого сражения было посчитано число ПИ до 100 знака. Вот [оно](PI.md).
-print(`PI)
+` print(PI)
