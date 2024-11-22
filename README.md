@@ -3,3 +3,4 @@
 ### [Задание по HTML](ABOUT_html.html)
 ### [Задание battleship](battleship.html)
 ### [Задание по кодировке](task4.md)
+### [Задание по моделям](MODEL.md)
